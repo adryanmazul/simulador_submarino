@@ -1,15 +1,15 @@
-# Simulador de Navegação de Submarino 🌊
+# Simulador de Navegação de Submarino
 
 Este é um projeto acadêmico desenvolvido em Python, inspirado no último exercício da minha primeira prova na faculdade. Gostei tanto do desafio proposto que decidi aprimorar o código e documentá-lo aqui. O projeto é focado em lógica de programação, manipulação de matrizes e controle de estados. O objetivo do simulador é navegar com um submarino por uma fossa oceânica até encontrar a caixa-preta, gerenciando o oxigênio e evitando as paredes do mapa.
 
-## 🛠️ Tecnologias e Conceitos Aplicados
+## Tecnologias e Conceitos Aplicados
 * **Python 3**
 * **Processamento via CLI (Command Line Interface)**
 * **Simulação de ambiente discreto (Matriz 10x10)**
 * **Validação de limites (Boundary checking)**
 * **Estruturas de Controle (Match-Case, Loops, Condicionais)**
 
-## 🎮 Como jogar
+## Como jogar
 O mapa é renderizado no terminal, onde:
 * `S` = Submarino
 * `C` = Caixa-preta (Objetivo)
